@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj": {}
+    "D:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj": {}
   },
   "projects": {
-    "d:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj": {
+    "D:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj",
+        "projectUniqueName": "D:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj",
         "projectName": "MyFirstRazorApp",
-        "projectPath": "d:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj",
+        "projectPath": "D:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj",
         "packagesPath": "C:\\Users\\vagha\\.nuget\\packages\\",
-        "outputPath": "d:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\obj\\",
+        "outputPath": "D:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
