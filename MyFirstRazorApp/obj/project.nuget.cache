@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhZnuazrfE4=",
+  "dgSpecHash": "LI8eSvS5qKc=",
   "success": true,
-  "projectFilePath": "D:\\Urvi\\Bincom Learning\\MyFirstRazorApp\\MyFirstRazorApp.csproj",
+  "projectFilePath": "d:\\Urvi\\Bincom Learning\\HelloWorldAzureApp\\MyFirstRazorApp\\MyFirstRazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vagha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
